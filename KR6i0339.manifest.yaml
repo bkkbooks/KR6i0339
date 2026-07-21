@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0339_000.yaml, hash: 'sha256:a6f04d072cdc7f77b0028006e2c3136470b032d5bdb46f447774ddd2c26c4fe6'}
+  - {seq: 0, filename: KR6i0339_000.yaml, hash: 'sha256:50a64d2fbcd3b86d80a115196e5fd8b4f992b02ed182303fedbe9300095b0aad'}
   - {seq: 1, filename: KR6i0339_001.yaml, hash: 'sha256:2a30f0b26a215658fd6d5c1defd7ddf4b501a9974871e7628e970ef428c8f320'}
   - {seq: 2, filename: KR6i0339_002.yaml, hash: 'sha256:2c74941ad58222802cc8d00771397ca2e50a0d3f952365ea1b457bd14ce3b10a'}
   - {seq: 3, filename: KR6i0339_003.yaml, hash: 'sha256:78f9a622a218e6e3254d2b3c7355031386b86cd67bd914420fb110da25892834'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 5, filename: KR6i0339_005.yaml, hash: 'sha256:335ef9b0406c21ca637cfb318554cb50fb7254da5c0c8a0ab5d40d379e03ba06'}
   - {seq: 6, filename: KR6i0339_006.yaml, hash: 'sha256:0b327f4cf19cb803eca13414fc990de1068c1709491362675c26acf6588747b6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0339_000.markers.yaml, hash: 'sha256:c6b5ae5301509ea1629b59a7c05830371b66511e0a57ee9f62c008c5dbd831a7'}
+  - {seq: 0, role: markers, filename: assets/KR6i0339_000.markers.yaml, hash: 'sha256:9edfb17a5d6244a014e24061a7456088645c342e91448f1cba742016b649ceb3'}
   - {seq: 1, role: markers, filename: assets/KR6i0339_001.markers.yaml, hash: 'sha256:7ed190607e97832ee589921e2505df1b98c3c70ab4a7af5db61acf9ebcdeb82c'}
   - {seq: 2, role: markers, filename: assets/KR6i0339_002.markers.yaml, hash: 'sha256:33f245c5af104ba798f596688c1080fe066049e1f10a5e7c071ffa0081048ad1'}
   - {seq: 3, role: markers, filename: assets/KR6i0339_003.markers.yaml, hash: 'sha256:e9dc2527e2265f7370e6407437189256566f775b3e00545da0320dc52ab61f8c'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0339_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 323-A 楞伽經序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0339_X_000-mulu-2
     span:
-    - front
+    - body
     - 937
     - 937
   label: No. 323-B 書楞伽經後
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0339_X_000-mulu-3
     span:
-    - front
+    - body
     - 1460
     - 1460
   label: No. 323-C 楞伽通義序
@@ -167,7 +167,7 @@ table_of_contents:
   label: 楞伽阿䟦多羅寶經通義卷第六
   type: juan
   level: 1
-hash: sha256:98f141594f3de77dccf177ded8981b2efe16c72e43cc8f503b207e2d6f4a8b79
+hash: sha256:48156744170ed6a810d783ed8ad7e26e4411f31c83ea7cca6e1eb99db2c883f6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
